@@ -7,8 +7,6 @@ const { generarJWT } = require('../helpers/jwt');
 
 
 
-
-
 const crearUsuario =async(req,res =response)=>{
    
    try

@@ -18,6 +18,7 @@
     "express-validator": "^6.13.0",
     "jsonwebtoken": "^8.5.1",
     "mogoose": "0.0.1-security",
+    "moment": "^2.29.1",
     "mongoose": "^6.0.12",
     "nodemon": "^2.0.14"
   }
